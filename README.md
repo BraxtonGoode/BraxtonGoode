@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I am Braxton Goode!!
+
+Currently, I am a student at BYU-Idaho working on a Bachelor of Software Development.
+
+```javascript
+const BraxtonGoode = {
+  code: ["HTML", "CSS", "JavaScript", "Python", "JSON"],
+  interests: ["Gaming", "reading", "learning about new things"],
+  schooling: {
+    certificates: ["working on Web and Development Certificate"],
+    degrees: ["Working on a Bachelors in Software Development"]
+  }
+};
+```
 
 <!--
 **BraxtonGoode/BraxtonGoode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
