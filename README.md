@@ -10,7 +10,7 @@ const BraxtonGoode = {
     certificates: ["working on Web and Development Certificate"],
     degrees: ["Working on a Bachelors in Software Development"]
   },
-  projects: ["Created a Discord Bot Called ArcBot", created the classic Game of Minesweeper"],
+  projects: ["Created a Discord Bot Called ArcBot", "Created the classic Game of Minesweeper"],
   connections: {
     linkedin: ["https://linkedin.com/in/braxtongoode"]
   }
