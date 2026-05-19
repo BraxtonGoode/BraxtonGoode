@@ -9,8 +9,8 @@ const BraxtonGoode = {
   schooling: {
     certificates: ["working on Web and Development Certificate"],
     degrees: ["Working on a Bachelors in Software Development"]
-  }
   projects: ["Created a Discord Bot Called ArcBot", created the classic Game of Minesweeper"]
+  }
 };
 ```
 
