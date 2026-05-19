@@ -4,7 +4,7 @@ Currently, I am a student at BYU-Idaho working on a Bachelor of Software Develop
 
 ```javascript
 const BraxtonGoode = {
-  code: ["HTML", "CSS", "JavaScript", "Python", "JSON"],
+  code: ["HTML", "CSS", "JavaScript", "Python", "JSON", "SQL"],
   interests: ["Gaming", "reading", "learning about new things"],
   schooling: {
     certificates: ["working on Web and Development Certificate"],
